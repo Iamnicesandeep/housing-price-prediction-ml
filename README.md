@@ -83,7 +83,7 @@ housing-price-prediction-ml/
 
 ### 📬 Let’s Connect
 
-📧 Karumudi@wisc.edu  
+📧 sandeepkarumudi3@gmail.com  
 📞 +1 (608) 707-2216  
-🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-karumudi) *(update if needed)*  
-💻 [Portfolio](https://your-portfolio-link.com) *(optional)*
+🔗 [LinkedIn](https://www.linkedin.com/in/sandeepk96)  
+💻 [Portfolio](https://github.com/sandeepk96)
