@@ -86,4 +86,4 @@ housing-price-prediction-ml/
 📧 sandeepkarumudi3@gmail.com  
 📞 +1 (608) 707-2216  
 🔗 [LinkedIn](https://www.linkedin.com/in/sandeepk96)  
-💻 [Portfolio](https://github.com/sandeepk96)
+💻 [Portfolio](https://github.com/iamnicesandeep)
